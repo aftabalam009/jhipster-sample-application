@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "jhipsterAuthAppl",
+    "packageName": "com.learning.aftab",
+    "packageFolder": "com/learning/aftab",
+    "serverPort": 8090,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.4.1",
+    "jwtSecretKey": "YWFlMTMxMzZlYjMyOGNmNGE2MzUxOTMzMjNiYjk3MGE1NTE2ZWRjNTk4YjY1ZGFmYWZkNzNlNmU1Y2M2NjVjOWM4MDFkM2QxYzViYjgzYjk0ZTFkMzZjNzFmMThkYzBmZDdlZmY2NTY0NDM4MGU4NmQ3NTYzNmNhZDA3ZThhZDI=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "aftabalam009",
+  "repository-name": "jhipster-sample-application"
+}
